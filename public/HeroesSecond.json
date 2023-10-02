@@ -1,0 +1,1270 @@
+[
+  {
+    "PrimaryName": "Abathur",
+    "AttributeName": "Abat",
+    "Group": "Support",
+    "EnziGrouping": "Specialist",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1231223"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Alarak",
+    "AttributeName": "Alar",
+    "Group": "Melee Assasin",
+    "EnziGrouping": "Assassin",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2332214"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Alexstrasza",
+    "AttributeName": "Alex",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "E-build",
+        "Talents": "3232233"
+      },
+      {
+        "Name": "W-build",
+        "Talents": "2122222"
+      },
+      {
+        "Name": "Q-build",
+        "Talents": "1312212"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Ana",
+    "AttributeName": "HANA",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1311331"
+      },
+      {
+        "Name": "non optimal anti SGT hammer-build",
+        "Talents": "3231334"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Anduin",
+    "AttributeName": "Andu",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2232132"
+      },
+      {
+        "Name": "MANDUIN-Last talent optional",
+        "Talents": "2222214"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Anub'arak",
+    "AttributeName": "Anub",
+    "Group": "Tank",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "3212314"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Artanis",
+    "AttributeName": "Arts",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2321421"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Arthas",
+    "AttributeName": "Arth",
+    "Group": "Tank",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1231121"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Auriel",
+    "AttributeName": "Auri",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "3312312"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Azmodan",
+    "AttributeName": "Azmo",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "teamFight-build",
+        "Talents": "3322332"
+      },
+      {
+        "Name": "Kamikaze-build",
+        "Talents": "1231121"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Blaze",
+    "AttributeName": "Fire",
+    "Group": "Tank",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "4131311"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Brightwing",
+    "AttributeName": "Faer",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2221321"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Cassia",
+    "AttributeName": "Amaz",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Adc",
+    "ProperBuilds": [
+      {
+        "Name": "AA-build",
+        "Talents": "3231333"
+      },
+      {
+        "Name": "Q-Build",
+        "Talents": "1131221"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Chen",
+    "AttributeName": "Chen",
+    "Group": "Bruiser",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1222332"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Cho",
+    "AttributeName": "CCho",
+    "Group": "Tank",
+    "EnziGrouping": "noPick"
+  },
+  {
+    "PrimaryName": "Chromie",
+    "AttributeName": "Chro",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Mage",
+    "ProperBuilds": [
+      {
+        "Name": "W-build",
+        "Talents": "2221331"
+      },
+      {
+        "Name": "Q-build",
+        "Talents": "1212323"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "D.Va",
+    "AttributeName": "DVA0",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2112122"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Deathwing",
+    "AttributeName": "DEAT",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1222333"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Deckard",
+    "AttributeName": "DECK",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1111311 (talents 7,10,13 flexible)"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Dehaka",
+    "AttributeName": "Deha",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build (Ult is preference)",
+        "Talents": "2211121"
+      },
+      {
+        "Name": "Race Car",
+        "Talents": "3212123"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Diablo",
+    "AttributeName": "Diab",
+    "Group": "Tank",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "AA-build",
+        "Talents": "1331334"
+      },
+      {
+        "Name": "W-build",
+        "Talents": "2212214"
+      },
+      {
+        "Name": "Q-build",
+        "Talents": "2131114"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "E.T.C.",
+    "AttributeName": "L90E",
+    "Group": "Tank",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2231125"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Falstad",
+    "AttributeName": "Fals",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "AA-build",
+        "Talents": "3312312"
+      },
+      {
+        "Name": "Q-build",
+        "Talents": "1322222"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Fenix",
+    "AttributeName": "FENX",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Adc",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2111423"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Gall",
+    "AttributeName": "Gall",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "noPick"
+  },
+  {
+    "PrimaryName": "Garrosh",
+    "AttributeName": "Garr",
+    "Group": "Tank",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1331113"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Gazlowe",
+    "AttributeName": "Tink",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build(E upgrade at 20 if E at 16)",
+        "Talents": "2111233"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Genji",
+    "AttributeName": "Genj",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Assassin",
+    "ProperBuilds": [
+      {
+        "Name": "E-build(ult is preference)",
+        "Talents": "1221321"
+      },
+      {
+        "Name": "Q-build",
+        "Talents": "2132122"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Greymane",
+    "AttributeName": "Genn",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Assassin",
+    "ProperBuilds": [
+      {
+        "Name": "Regular-build",
+        "Talents": "3112333"
+      },
+      {
+        "Name": "Greedy Worgen-build",
+        "Talents": "3132234"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Gul'dan",
+    "AttributeName": "Guld",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Mage",
+    "ProperBuilds": [
+      {
+        "Name": "Sustained-build",
+        "Talents": "1311111"
+      },
+      {
+        "Name": "Burst-build",
+        "Talents": "3331121"
+      },
+      {
+        "Name": "BIG SUCC-build",
+        "Talents": "2121231"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Hanzo",
+    "AttributeName": "Hanz",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Adc",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2122222"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Hogger",
+    "AttributeName": "HOGG",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "3211213"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Illidan",
+    "AttributeName": "Illi",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Assassin",
+    "ProperBuilds": [
+      {
+        "Name": "Offlane-build",
+        "Talents": "3222334"
+      },
+      {
+        "Name": "TeamFight-build",
+        "Talents": "2231231"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Imperius",
+    "AttributeName": "IMPE",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Q-build",
+        "Talents": "1111123"
+      },
+      {
+        "Name": "OffLane-build(only good at 2 lane maps)",
+        "Talents": "3131123"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Jaina",
+    "AttributeName": "Jain",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Mage",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2222332"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Johanna",
+    "AttributeName": "Crus",
+    "Group": "Tank",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1112122"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Junkrat",
+    "AttributeName": "Junk",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Q-build",
+        "Talents": "3131223"
+      },
+      {
+        "Name": "Trap-build",
+        "Talents": "3331321"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Kael'thas",
+    "AttributeName": "Kael",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Mage",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "3111124"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Kel'Thuzad",
+    "AttributeName": "KelT",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Mage",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "3322324"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Kerrigan",
+    "AttributeName": "Kerr",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Assassin",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "3121234"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Kharazim",
+    "AttributeName": "Monk",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2212214"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Leoric",
+    "AttributeName": "Leor",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Damage reduction-build",
+        "Talents": "1121221"
+      },
+      {
+        "Name": "AA-build",
+        "Talents": "1321331"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Li Li",
+    "AttributeName": "LiLi",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Solo heal-build",
+        "Talents": "2331211"
+      },
+      {
+        "Name": "Dps-build",
+        "Talents": "2132132"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Li-Ming",
+    "AttributeName": "Wiza",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Mage",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build (1-4 and 16 are preference)",
+        "Talents": "2332122"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Lt. Morales",
+    "AttributeName": "Medi",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1122314"
+      },
+      {
+        "Name": "Grenade-build",
+        "Talents": "3322314"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Lúcio",
+    "AttributeName": "Luci",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2221313,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Lunara",
+    "AttributeName": "Drya",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Adc",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build (ult is preference)",
+        "Talents": "2322343,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Maiev",
+    "AttributeName": "Maie",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Assassin",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build (1-13-20 is preference)",
+        "Talents": "3212333,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Mal'Ganis",
+    "AttributeName": "MALG",
+    "Group": "Tank",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "3131331"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Malfurion",
+    "AttributeName": "Malf",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "3232122,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Malthael",
+    "AttributeName": "MALT",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2122414,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Medivh",
+    "AttributeName": "Mdvh",
+    "Group": "Support",
+    "EnziGrouping": "Specialist",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build(10 and 16 preference)",
+        "Talents": "3222224,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Mei",
+    "AttributeName": "HMEI",
+    "Group": "Tank",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2221224,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Mephisto",
+    "AttributeName": "MEPH",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Mage",
+    "ProperBuilds": [
+      {
+        "Name": "W-build",
+        "Talents": "2322323"
+      },
+      {
+        "Name": "Q-build",
+        "Talents": "1322112"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Muradin",
+    "AttributeName": "Mura",
+    "Group": "Tank",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "Tank-build",
+        "Talents": "1321234"
+      },
+      {
+        "Name": "Dps-build",
+        "Talents": "1122114"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Murky",
+    "AttributeName": "Murk",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Specialist",
+    "ProperBuilds": [
+      {
+        "Name": "Split-build",
+        "Talents": "3222123"
+      },
+      {
+        "Name": "Q-build",
+        "Talents": "3112314"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Nazeebo",
+    "AttributeName": "Witc",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Q-build Take Humongoid at 20 if you can't get to 175 stacks in time",
+        "Talents": "1211313"
+      },
+      {
+        "Name": "E-build",
+        "Talents": "2231133"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Nova",
+    "AttributeName": "Nova",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Assassin",
+    "ProperBuilds": [
+      {
+        "Name": "Burst-build",
+        "Talents": "1132224"
+      },
+      {
+        "Name": "Q-build",
+        "Talents": "2112114"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Orphea",
+    "AttributeName": "ORPH",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Mage",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "3312223"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Probius",
+    "AttributeName": "Prob",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Specialist",
+    "ProperBuilds": [
+      {
+        "Name": "Q-build",
+        "Talents": "1311211,"
+      },
+      {
+        "Name": "W-build",
+        "Talents": "2222212,"
+      },
+      {
+        "Name": "E-build",
+        "Talents": "3231311,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Qhira",
+    "AttributeName": "NXHU",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Assassin",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2322112,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Ragnaros",
+    "AttributeName": "Ragn",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Q-build",
+        "Talents": "1311114"
+      },
+      {
+        "Name": "E-build",
+        "Talents": "3231234"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Raynor",
+    "AttributeName": "Rayn",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Adc",
+    "ProperBuilds": [
+      {
+        "Name": "Q-build",
+        "Talents": "1111115"
+      },
+      {
+        "Name": "Ding-build",
+        "Talents": "2111225"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Rehgar",
+    "AttributeName": "Rehg",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2311321,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Rexxar",
+    "AttributeName": "Rexx",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Q-build",
+        "Talents": "1212134,"
+      },
+      {
+        "Name": "W-build",
+        "Talents": "1232234,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Samuro",
+    "AttributeName": "Samu",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "3211333,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Sgt. Hammer",
+    "AttributeName": "Sgth",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Specialist",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1222334"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Sonya",
+    "AttributeName": "Barb",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "E-build",
+        "Talents": "3222234,"
+      },
+      {
+        "Name": "W-build Leap is good with W build",
+        "Talents": "1312314,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Stitches",
+    "AttributeName": "Stit",
+    "Group": "Tank",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1321111,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Stukov",
+    "AttributeName": "STUK",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2232232,"
+      },
+      {
+        "Name": "E-build",
+        "Talents": "3222114,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Sylvanas",
+    "AttributeName": "Sylv",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1131334"
+      },
+      {
+        "Name": "Stacking-build",
+        "Talents": "2131234"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Tassadar",
+    "AttributeName": "Tass",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Mage",
+    "ProperBuilds": [
+      {
+        "Name": "Q-build",
+        "Talents": "1311311"
+      },
+      {
+        "Name": "W-build",
+        "Talents": "1321321"
+      },
+      {
+        "Name": "AA-build",
+        "Talents": "3331331"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "The Butcher",
+    "AttributeName": "Butc",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Assassin",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "3232214,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "The Lost Vikings",
+    "AttributeName": "Lost",
+    "Group": "Support",
+    "EnziGrouping": "Specialist",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "4222214,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Thrall",
+    "AttributeName": "Thra",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1332325"
+      },
+      {
+        "Name": "Giant killer-build",
+        "Talents": "3222335"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Tracer",
+    "AttributeName": "Tra0",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Assassin",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build (Beginners should take Sleight of Hand at 7)",
+        "Talents": "2232212,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Tychus",
+    "AttributeName": "Tych",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Adc",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "1211321,"
+      },
+      {
+        "Name": "Q-build",
+        "Talents": "2211113,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Tyrael",
+    "AttributeName": "Tyrl",
+    "Group": "Tank",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2212212,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Tyrande",
+    "AttributeName": "Tyrd",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2322113"
+      },
+      {
+        "Name": "Darnassian-build",
+        "Talents": "3222134"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Uther",
+    "AttributeName": "Uthe",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Q-build",
+        "Talents": "1131133,"
+      },
+      {
+        "Name": "E-build",
+        "Talents": "3232233,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Valeera",
+    "AttributeName": "VALE",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Assassin",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build(Combo is DEQQE)",
+        "Talents": "4111314,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Valla",
+    "AttributeName": "Demo",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Adc",
+    "ProperBuilds": [
+      {
+        "Name": "Q-build",
+        "Talents": "1321133"
+      },
+      {
+        "Name": "W-build",
+        "Talents": "2121334"
+      },
+      {
+        "Name": "AA-build",
+        "Talents": "3232234"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Varian",
+    "AttributeName": "Vari",
+    "Group": "Bruiser",
+    "EnziGrouping": "Tank",
+    "ProperBuilds": [
+      {
+        "Name": "SMASH-build",
+        "Talents": "3222234"
+      },
+      {
+        "Name": "FURY-build",
+        "Talents": "3322234"
+      },
+      {
+        "Name": "TAUNT-build",
+        "Talents": "2122234"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Whitemane",
+    "AttributeName": "WHIT",
+    "Group": "Healer",
+    "EnziGrouping": "Support",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build(Ult is preference)",
+        "Talents": "1131231,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Xul",
+    "AttributeName": "Necr",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "W-build",
+        "Talents": "2212223,"
+      },
+      {
+        "Name": "Q-build",
+        "Talents": "2131113,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Yrel",
+    "AttributeName": "YREL",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Fan-build",
+        "Talents": "2321331,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Zagara",
+    "AttributeName": "Zaga",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane",
+    "ProperBuilds": [
+      {
+        "Name": "Q-build",
+        "Talents": "1111324,"
+      },
+      {
+        "Name": "E-build",
+        "Talents": "2232312,"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Zarya",
+    "AttributeName": "Zary",
+    "Group": "Support",
+    "EnziGrouping": "Specialist",
+    "ProperBuilds": [
+      {
+        "Name": "Feel the Heat-build",
+        "Talents": "3122424"
+      },
+      {
+        "Name": "Q-build",
+        "Talents": "1112423"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Zeratul",
+    "AttributeName": "Zera",
+    "Group": "Assassin",
+    "EnziGrouping": "Assassin",
+    "ProperBuilds": [
+      {
+        "Name": "Q-build",
+        "Talents": "1122224"
+      },
+      {
+        "Name": "W-build",
+        "Talents": "3221131"
+      },
+      {
+        "Name": "E-build",
+        "Talents": "2211213"
+      }
+    ]
+  },
+  {
+    "PrimaryName": "Zul'jin",
+    "AttributeName": "ZULJ",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Adc",
+    "ProperBuilds": [
+      {
+        "Name": "Stacking-build",
+        "Talents": "2321221"
+      },
+      {
+        "Name": "Q-build",
+        "Talents": "1311211"
+      }
+    ]
+  }
+]

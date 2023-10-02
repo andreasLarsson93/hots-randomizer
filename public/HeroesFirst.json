@@ -1,0 +1,542 @@
+[
+  {
+    "PrimaryName": "Abathur",
+    "AttributeName": "Abat",
+    "Group": "Support",
+    "EnziGrouping": "noPick"
+  },
+  {
+    "PrimaryName": "Alarak",
+    "AttributeName": "Alar",
+    "Group": "Melee Assasin",
+    "EnziGrouping": "Melee-Dps"
+  },
+  {
+    "PrimaryName": "Alexstrasza",
+    "AttributeName": "Alex",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Ana",
+    "AttributeName": "HANA",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Anduin",
+    "AttributeName": "Andu",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Anub'arak",
+    "AttributeName": "Anub",
+    "Group": "Tank",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Artanis",
+    "AttributeName": "Arts",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Arthas",
+    "AttributeName": "Arth",
+    "Group": "Tank",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Auriel",
+    "AttributeName": "Auri",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Azmodan",
+    "AttributeName": "Azmo",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Blaze",
+    "AttributeName": "Fire",
+    "Group": "Tank",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Brightwing",
+    "AttributeName": "Faer",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Cassia",
+    "AttributeName": "Amaz",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Chen",
+    "AttributeName": "Chen",
+    "Group": "Bruiser",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Cho",
+    "AttributeName": "CCho",
+    "Group": "Tank",
+    "EnziGrouping": "noPick"
+  },
+  {
+    "PrimaryName": "Chromie",
+    "AttributeName": "Chro",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "D.Va",
+    "AttributeName": "DVA0",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Deathwing",
+    "AttributeName": "DEAT",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Deckard",
+    "AttributeName": "DECK",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Dehaka",
+    "AttributeName": "Deha",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Diablo",
+    "AttributeName": "Diab",
+    "Group": "Tank",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "E.T.C.",
+    "AttributeName": "L90E",
+    "Group": "Tank",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Falstad",
+    "AttributeName": "Fals",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Fenix",
+    "AttributeName": "FENX",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Gall",
+    "AttributeName": "Gall",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "noPick"
+  },
+  {
+    "PrimaryName": "Garrosh",
+    "AttributeName": "Garr",
+    "Group": "Tank",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Gazlowe",
+    "AttributeName": "Tink",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Genji",
+    "AttributeName": "Genj",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Greymane",
+    "AttributeName": "Genn",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Melee-Dps"
+  },
+  {
+    "PrimaryName": "Gul'dan",
+    "AttributeName": "Guld",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Hanzo",
+    "AttributeName": "Hanz",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Hogger",
+    "AttributeName": "HOGG",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Illidan",
+    "AttributeName": "Illi",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Melee-Dps"
+  },
+  {
+    "PrimaryName": "Imperius",
+    "AttributeName": "IMPE",
+    "Group": "Bruiser",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Jaina",
+    "AttributeName": "Jain",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Johanna",
+    "AttributeName": "Crus",
+    "Group": "Tank",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Junkrat",
+    "AttributeName": "Junk",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Kael'thas",
+    "AttributeName": "Kael",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Kel'Thuzad",
+    "AttributeName": "KelT",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Kerrigan",
+    "AttributeName": "Kerr",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Kharazim",
+    "AttributeName": "Monk",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Leoric",
+    "AttributeName": "Leor",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Li Li",
+    "AttributeName": "LiLi",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Li-Ming",
+    "AttributeName": "Wiza",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Lt. Morales",
+    "AttributeName": "Medi",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Lúcio",
+    "AttributeName": "Luci",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Lunara",
+    "AttributeName": "Drya",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Maiev",
+    "AttributeName": "Maie",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Melee-Dps"
+  },
+  {
+    "PrimaryName": "Mal'Ganis",
+    "AttributeName": "MALG",
+    "Group": "Tank",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Malfurion",
+    "AttributeName": "Malf",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Malthael",
+    "AttributeName": "MALT",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Medivh",
+    "AttributeName": "Mdvh",
+    "Group": "Support",
+    "EnziGrouping": "not-decided"
+  },
+  {
+    "PrimaryName": "Mei",
+    "AttributeName": "HMEI",
+    "Group": "Tank",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Mephisto",
+    "AttributeName": "MEPH",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Muradin",
+    "AttributeName": "Mura",
+    "Group": "Tank",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Murky",
+    "AttributeName": "Murk",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Nazeebo",
+    "AttributeName": "Witc",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Nova",
+    "AttributeName": "Nova",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Orphea",
+    "AttributeName": "ORPH",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Probius",
+    "AttributeName": "Prob",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Qhira",
+    "AttributeName": "NXHU",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Melee-Dps"
+  },
+  {
+    "PrimaryName": "Ragnaros",
+    "AttributeName": "Ragn",
+    "Group": "Bruiser",
+    "EnziGrouping": "Melee-Dps"
+  },
+  {
+    "PrimaryName": "Raynor",
+    "AttributeName": "Rayn",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Rehgar",
+    "AttributeName": "Rehg",
+    "Group": "Healer",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Rexxar",
+    "AttributeName": "Rexx",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Samuro",
+    "AttributeName": "Samu",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Sgt. Hammer",
+    "AttributeName": "Sgth",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Sonya",
+    "AttributeName": "Barb",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Stitches",
+    "AttributeName": "Stit",
+    "Group": "Tank",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Stukov",
+    "AttributeName": "STUK",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Sylvanas",
+    "AttributeName": "Sylv",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Tassadar",
+    "AttributeName": "Tass",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "The Butcher",
+    "AttributeName": "Butc",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Melee-Dps"
+  },
+  {
+    "PrimaryName": "The Lost Vikings",
+    "AttributeName": "Lost",
+    "Group": "Support",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Thrall",
+    "AttributeName": "Thra",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Tracer",
+    "AttributeName": "Tra0",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Tychus",
+    "AttributeName": "Tych",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Tyrael",
+    "AttributeName": "Tyrl",
+    "Group": "Tank",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Tyrande",
+    "AttributeName": "Tyrd",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Uther",
+    "AttributeName": "Uthe",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Valeera",
+    "AttributeName": "VALE",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Melee-Dps"
+  },
+  {
+    "PrimaryName": "Valla",
+    "AttributeName": "Demo",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  },
+  {
+    "PrimaryName": "Varian",
+    "AttributeName": "Vari",
+    "Group": "Bruiser",
+    "EnziGrouping": "Tank"
+  },
+  {
+    "PrimaryName": "Whitemane",
+    "AttributeName": "WHIT",
+    "Group": "Healer",
+    "EnziGrouping": "Support"
+  },
+  {
+    "PrimaryName": "Xul",
+    "AttributeName": "Necr",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Yrel",
+    "AttributeName": "YREL",
+    "Group": "Bruiser",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Zagara",
+    "AttributeName": "Zaga",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Solo-Lane"
+  },
+  {
+    "PrimaryName": "Zarya",
+    "AttributeName": "Zary",
+    "Group": "Support",
+    "EnziGrouping": "not-decided"
+  },
+  {
+    "PrimaryName": "Zeratul",
+    "AttributeName": "Zera",
+    "Group": "Melee Assassin",
+    "EnziGrouping": "Melee-Dps"
+  },
+  {
+    "PrimaryName": "Zul'jin",
+    "AttributeName": "ZULJ",
+    "Group": "Ranged Assassin",
+    "EnziGrouping": "Ranged-Dps"
+  }
+]
